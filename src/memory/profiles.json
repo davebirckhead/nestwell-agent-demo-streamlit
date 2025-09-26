@@ -1,0 +1,44 @@
+{
+  "demo_b2c": {
+    "traits": {},
+    "history": []
+  },
+  "demo_b2b": {
+    "traits": {
+      "segment": "B2B",
+      "pref": "focus_space",
+      "budget_per_room": 1500,
+      "buyer_role": "office_mgr",
+      "risk": "at_risk",
+      "cs_last_issue": "potential_churn"
+    },
+    "history": [
+      {
+        "stage": "marketing",
+        "tools": [
+          "recommend_bundle",
+          "create_lead"
+        ]
+      },
+      {
+        "stage": "sales",
+        "tools": [
+          "price_quote"
+        ]
+      },
+      {
+        "stage": "support",
+        "tools": [
+          "lookup_order"
+        ]
+      },
+      {
+        "stage": "marketing",
+        "tools": [
+          "recommend_bundle",
+          "create_lead"
+        ]
+      }
+    ]
+  }
+}
