@@ -1,0 +1,1 @@
+# Warranty\n2-year structural warranty. 1-year upholstery coverage.

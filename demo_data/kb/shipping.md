@@ -1,0 +1,1 @@
+# Shipping\nStandard shipping 3-5 business days. Holiday delays may occur.

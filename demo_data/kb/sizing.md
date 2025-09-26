@@ -1,0 +1,1 @@
+# Sizing Guide\nLounge sofas seat 3 adults. Premium fabric is stain resistant.

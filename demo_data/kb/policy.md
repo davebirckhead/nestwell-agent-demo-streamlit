@@ -1,0 +1,1 @@
+# Return Policy\nFree returns within 30 days. Use prepaid label provided by the agent.

@@ -1,0 +1,51 @@
+[
+  {
+    "sku": "CH-ERG-001",
+    "name": "NestWell Ergonomic Chair",
+    "price": 399,
+    "tags": [
+      "chair",
+      "ergonomic",
+      "b2c",
+      "b2b"
+    ]
+  },
+  {
+    "sku": "DSK-SITSTAND-002",
+    "name": "NestWell Standing Desk",
+    "price": 699,
+    "tags": [
+      "desk",
+      "b2c",
+      "b2b"
+    ]
+  },
+  {
+    "sku": "SF-LOUNGE-003",
+    "name": "NestWell Lounge Sofa",
+    "price": 1299,
+    "tags": [
+      "sofa",
+      "b2b"
+    ]
+  },
+  {
+    "sku": "PLW-GEL-004",
+    "name": "NestWell Gel Pillow",
+    "price": 89,
+    "tags": [
+      "pillow",
+      "b2c"
+    ]
+  },
+  {
+    "sku": "LMP-BIO-005",
+    "name": "NestWell Biophilic Lamp",
+    "price": 149,
+    "tags": [
+      "lamp",
+      "b2c",
+      "b2b"
+    ]
+  }
+]
